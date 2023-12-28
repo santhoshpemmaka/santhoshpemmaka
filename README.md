@@ -1,6 +1,6 @@
 ### Hi there, I'm SanthoshPemmaka 👋
 
-## I'm a Software Developer, BT Group.
+## I'm a Software Engineer, at BT Group.
 - 🔭 I’m currently working as a Full Stack Developer.
 - 🌱 I’m currently learning everything 🤣
   
