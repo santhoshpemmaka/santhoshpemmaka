@@ -1,10 +1,9 @@
 ### Hi there, I'm SanthoshPemmaka 👋
 
-## I'm a Developer, Student !
-- 🔭 I’m currently working on a font-end-developer in reactJs.
+## I'm a Software Developer, BT Group.
+- 🔭 I’m currently working as a Full Stack Developer.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-
+  
 
 ### Connect with me:
 [<img align="left" alt="santhoshPemmaka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -29,16 +28,11 @@
 ---
 ###  Latest Github Respiratory
 <!-- Github:START -->
-- [Building Amazon Clone using reactJs,react-router and react-redux.](https://wqx69.csb.app/)
-- [Building Google Clone using reactJs,react-router and react-redux.](https://s6zwx.csb.app/)
-- [Building Netflix Clone using ReactJs.](https://5zjte.csb.app/)
+- [Building Full Stack Projects](https://github.com/santhoshpemmaka/100xdevs)
+- [Learning deep depth about Backend stuff. I'm push code daily learning progress](https://github.com/santhoshpemmaka/100xdevs-pratice)
 
-
-- Building TodoList using reactJs,react-redux.
 <!-- Github:END -->
 
----
-<img align="left" alt="SanthoshPemmaka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=santhoshpemmaka&show_icons=true&hide_border=true" />
 
 
 
